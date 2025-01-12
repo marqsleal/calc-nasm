@@ -1,0 +1,21 @@
+Initiating benchmark...
+Operation: sum
+./calc.out (sum): 0 seconds
+./calc_c_only.out (sum): 0 seconds
+Result: Both had the same execution time for sum.
+
+Operation: sub
+./calc.out (sub): 0 seconds
+./calc_c_only.out (sub): 0 seconds
+Result: Both had the same execution time for sub.
+
+Operation: mult
+./calc.out (mult): 0 seconds
+./calc_c_only.out (mult): 0 seconds
+Result: Both had the same execution time for mult.
+
+Operation: div
+./calc.out (div): 0 seconds
+./calc_c_only.out (div): 0 seconds
+Result: Both had the same execution time for div.
+
